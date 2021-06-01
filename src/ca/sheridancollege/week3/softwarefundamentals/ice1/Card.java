@@ -14,7 +14,8 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1;
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
  * @author sivagama
- */
+ * jyoti
+ */ 
 public class Card {
 
    private String suit; //clubs, spades, diamonds, hearts
